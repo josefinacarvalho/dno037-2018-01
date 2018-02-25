@@ -4,7 +4,11 @@
 
 #### Miércoles, Módulos 2 y 3 (10.00 a 12.50 hrs.)
 
-#### Sesiones 
+En esta primera clase del semestre se presenta el curso que
+
+>ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción, según las prácticas estandarizadas en interoperabilidad, accesibilidad y usabilidad.
+
+Aprobando el curso, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo de aplicación web. Para ello, se proyecta la siguiente organización de sesiones durante el semestre:
 
 - Sesión 1 --> **7 de marzo** --> Introducción al curso: Programas, GitHub, y Ejercicio rápido para la publicación en GitHub Pages.
 
