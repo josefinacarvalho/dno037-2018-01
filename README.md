@@ -17,7 +17,7 @@ Habiendo sacado el mejor provecho al optativo, **los estudiantes serán capaces 
 
 Se proyecta la siguiente organización de las clases durante el semestre:
 
-- Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01/blob/master/README.md#clase-1--miércoles-7-de-marzo). 
+- Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01/#clase-1--mi%C3%A9rcoles-7-de-marzo). 
 
 - Clase 2 → Miércoles 14 de marzo → HTML5
 
