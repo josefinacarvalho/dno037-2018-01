@@ -1,5 +1,4 @@
 # Diseño y Nuevos Medios
-## Miércoles, Módulos 2 y 3 (10.00 a 12.50 hrs.)
 
 ### Profesor: Felipe Cortez
 ### Ayudante: Denisse Ortega
