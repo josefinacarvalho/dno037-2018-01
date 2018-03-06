@@ -1,60 +1,60 @@
 # Diseño y Nuevos Medios
-### Primer semestre, 2018
-#### Miércoles, Módulos 2 y 3 (10.00 a 12.50 hrs.)
+### Miércoles, Módulos 2 y 3 (10.00 a 12.50 hrs.)
 
-#### Profesor Felipe Cortez, alias [FACO](http://profesor.faco.cl)
+#### Profesor: Felipe Cortez
+#### Ayudante: Denisse Ortega
 
-Diseño y Nuevos Medios es un Optativo de Profundización de Diseño, que:
+**Diseño y Nuevos Medios es un Optativo de Profundización en Diseño**. Este optativo:
 
-1. conserva su nombre desde el año 2010 (pero no conservar el programa de aquél tiempo).
+1. conserva su nombre desde el año 2010 (pero no conserva el mismo programa).
 
-2. forma parte del Certificado Académico en [Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/725-desarrollo-de-productos-y-servicios-digitales).
+2. forma parte del Certificado Académico Interdisciplinario en [Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/725-desarrollo-de-productos-y-servicios-digitales).
 
-3. ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción, según las prácticas estandarizadas en interoperabilidad, accesibilidad y usabilidad.
+3. ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción.
 
 4. exige constante ejercitación y publicación de resultados en GitHub y GitHub Pages.
 
-Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el examen final se revisará en línea; cada estudiante puede aprovechar el examen final para ganar plata (puede desarrollar el sitio web de una empresa, sitio que tendrá que poner en línea en dominio correspondiente, con un hosting de nivel profesional; pero la calificación final no dependerá de la opinión de la empresa).
+Habiendo sacado el mejor provecho al optativo, **los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web**. Por esta razón, el examen final se revisará en línea; cada estudiante puede aprovechar el examen final para ganar plata (puede desarrollar el sitio web de una empresa, sitio que tendrá que poner en línea en dominio correspondiente, con un hosting de nivel profesional; pero la calificación final no dependerá de la opinión de la empresa).
 
-Se proyecta la siguiente organización de sesiones durante el semestre:
+Se proyecta la siguiente organización de las clases durante el semestre:
 
-- Sesión 1 → **7 de marzo** → GitHub, GitHub Pages, software y un vistazo al código fuente. 
+- Clase 1 → **7 de marzo** → GitHub, GitHub Pages, software y un vistazo al código fuente. 
 
-- Sesión 2 → **14 de marzo** → HTML5
+- Clase 2 → **14 de marzo** → HTML5
 
-- Sesión 3 → **21 de marzo** → CSS3
+- Clase 3 → **21 de marzo** → CSS3
 
-- Sesión 4 → **28 de marzo** → Bootstrap (HTML5 + CSS3 + JS)
+- Clase 4 → **28 de marzo** → Bootstrap (HTML5 + CSS3 + JS)
 
-- Sesión 5 → **4 de abril** → JS
+- Clase 5 → **4 de abril** → JS
 
-- Sesión 6 → **11 de abril** → JS
+- Clase 6 → **11 de abril** → JS
 
-- Sesión 7 → **18 de abril** → JS
+- Clase 7 → **18 de abril** → JS
 
-- Sesión 8 → **25 de abril** → Ejercicio con evaluación parcial en JS
+- Clase 8 → **25 de abril** → Ejercicio con evaluación parcial en JS
 
-- Sesión 9 → **2 de mayo** → PHP
+- Clase 9 → **2 de mayo** → PHP
 
-- Sesión 10 → **9 de mayo** → PHP
+- Clase 10 → **9 de mayo** → PHP
 
-- Sesión 11 → **16 de mayo** → PHP
+- Clase 11 → **16 de mayo** → PHP
 
-- Sesión 12 → **23 de mayo** → Ejercicio con evaluación parcial en PHP
+- Clase 12 → **23 de mayo** → Ejercicio con evaluación parcial en PHP
 
-- Sesión 13 → **30 de mayo** → Proyecto final · ¿Qué hacer? · *Discover*
+- Clase 13 → **30 de mayo** → Proyecto final · ¿Qué hacer? · *Discover*
 
-- Sesión 14 → **6 de junio** → Proyecto Final · ¿Cómo hacerlo? · *Define*
+- Clase 14 → **6 de junio** → Proyecto Final · ¿Cómo hacerlo? · *Define*
 
-- Sesión 15 → **13 de junio** → Proyecto Final · Implementación · *Develop*
+- Clase 15 → **13 de junio** → Proyecto Final · Implementación · *Develop*
 
-- Sesión 16 → **20 de junio** → Proyecto Final · Pre-entrega · *Deliver 1.0*
+- Clase 16 → **20 de junio** → Proyecto Final · Pre-entrega · *Deliver 1.0*
 
-- Sesión 17 → **27 de junio** → Proyecto Final · Entrega · *Deliver 2.0*
+- Clase 17 → **27 de junio** → Proyecto Final · Entrega · *Deliver 2.0*
 
 - - - - - - - - -
 
-## Sesión 1
+## Clase 1
 ### Miércoles 7 de marzo
 
 #### GitHub 
