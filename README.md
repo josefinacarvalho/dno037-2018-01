@@ -17,39 +17,39 @@ Habiendo sacado el mejor provecho al optativo, **los estudiantes serán capaces 
 
 Se proyecta la siguiente organización de las clases durante el semestre:
 
-- Clase 1 → **7 de marzo** → GitHub, GitHub Pages, software y un vistazo al código fuente. 
+- Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01/blob/master/README.md#clase-1). 
 
-- Clase 2 → **14 de marzo** → HTML5
+- Clase 2 → Miércoles 14 de marzo → HTML5
 
-- Clase 3 → **21 de marzo** → CSS3
+- Clase 3 → Miércoles 21 de marzo → CSS3
 
-- Clase 4 → **28 de marzo** → Bootstrap (HTML5 + CSS3 + JS)
+- Clase 4 → Miércoles 28 de marzo → Bootstrap (HTML5 + CSS3 + JS)
 
-- Clase 5 → **4 de abril** → JS
+- Clase 5 → Miércoles 4 de abril → JS
 
-- Clase 6 → **11 de abril** → JS
+- Clase 6 → Miércoles 11 de abril → JS
 
-- Clase 7 → **18 de abril** → JS
+- Clase 7 → Miércoles 18 de abril → JS
 
-- Clase 8 → **25 de abril** → Ejercicio con evaluación parcial en JS
+- Clase 8 → Miércoles 25 de abril → Ejercicio con evaluación parcial en JS
 
-- Clase 9 → **2 de mayo** → PHP
+- Clase 9 → Miércoles 2 de mayo → PHP
 
-- Clase 10 → **9 de mayo** → PHP
+- Clase 10 → Miércoles 9 de mayo → PHP
 
-- Clase 11 → **16 de mayo** → PHP
+- Clase 11 → Miércoles 16 de mayo → PHP
 
-- Clase 12 → **23 de mayo** → Ejercicio con evaluación parcial en PHP
+- Clase 12 → Miércoles 23 de mayo → Ejercicio con evaluación parcial en PHP
 
-- Clase 13 → **30 de mayo** → Proyecto final · ¿Qué hacer? · *Discover*
+- Clase 13 → Miércoles 30 de mayo → Proyecto final · ¿Qué hacer? · *Discover*
 
-- Clase 14 → **6 de junio** → Proyecto Final · ¿Cómo hacerlo? · *Define*
+- Clase 14 → Miércoles 6 de junio → Proyecto Final · ¿Cómo hacerlo? · *Define*
 
-- Clase 15 → **13 de junio** → Proyecto Final · Implementación · *Develop*
+- Clase 15 → Miércoles 13 de junio → Proyecto Final · Implementación · *Develop*
 
-- Clase 16 → **20 de junio** → Proyecto Final · Pre-entrega · *Deliver 1.0*
+- Clase 16 → Miércoles 20 de junio → Proyecto Final · Pre-entrega · *Deliver 1.0*
 
-- Clase 17 → **27 de junio** → Proyecto Final · Entrega · *Deliver 2.0*
+- Clase 17 → Miércoles 27 de junio → Proyecto Final · Entrega · *Deliver 2.0*
 
 - - - - - - - - -
 
@@ -58,13 +58,13 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 #### GitHub 
 
-GitHub es una plataforma de desarrollo colaborativo, que permite crear repositorios para subir proyectos cuyas versiones controlamos mediante Git (un sistema cuyo propósito es llevar registro de los cambios en archivos compartidos, para coordinar el trabajo entre varias personas).
+**GitHub es una plataforma de desarrollo colaborativo**, que permite crear repositorios para subir proyectos cuyas versiones controlamos mediante Git (un sistema cuyo propósito es llevar registro de los cambios en archivos compartidos, para coordinar el trabajo entre varias personas).
 
-Para el desarrollo del curso, es necesario que cada estudiante tenga [su cuenta personal en GitHub](https://github.com/join).
+Es necesario que cada estudiante en Diseño y Nuevos Medios tenga [su cuenta personal en GitHub](https://github.com/join).
 
-Tan pronto tengan su cuenta, es necesario que creen su primer repositorio. El proceso para hacerlo es muy sencillo: 
+Si vas a crear tu cuenta ahora mismo, te recomiendo también crear tu primer repositorio. El proceso es muy sencillo: 
 
-En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevó a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te entregará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y tienes marcar un ticket en la opción de "Initialize this repository with a README". Para terminar, dale click al botón verde de "Create repository".
+En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevará a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas usar dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te dará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y **tienes marcar un ticket en la opción de "Initialize this repository with a README"**. Para terminar, dale click al botón verde de "Create repository".
 
 #### GitHub Pages
 
@@ -74,7 +74,7 @@ Al finalizar esta clase, aprovecharemos el repositorio que ya han creado, y un e
 
 #### Software 
 
-Para empezar, necesitaremos dos cosas: 
+Para empezar, necesitaremos: 
 
 1. **Navegador Web**: Seguro ya tienes tu favorito. Lo ideal sería que este favorito sea Chrome o Firefox, porque ofrecen mejores herramientas para los desarrolladores. 
 
@@ -84,8 +84,8 @@ Para empezar, necesitaremos dos cosas:
 
 Ahora vamos a poner manos a la obra con los siguientes objetivos: 
 
-1. los estudiante podrán tener una idea más clara respecto de temas y modos de trabajo en el optativo.
-2. ayudante y profesor podrán contar con evidencia de diagnóstico, para ajustar la partida de las próximas clases. 
+1. Para los estudiantes: tener una idea más clara respecto de temas y modos de trabajo en el optativo.
+2. Para ayudante y profesor: contar con evidencia de diagnóstico, para ajustar la partida de las próximas clases. 
 
 Vamos a http://profesorado.github.io/dno037-2018-01
 
