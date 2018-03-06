@@ -86,7 +86,7 @@ Ahora vamos a poner manos a la obra con los siguientes objetivos:
 1. Para los estudiantes: tener una idea más clara respecto de temas y modos de trabajo en el optativo.
 2. Para ayudante y profesor: contar con evidencia de diagnóstico, para ajustar la partida de las próximas clases. 
 
-Vamos a http://profesorado.github.io/dno037-2018-01
+Vamos a https://profesorfaco.github.io/dno037-2018-01/
 
 - - - - - 
 
