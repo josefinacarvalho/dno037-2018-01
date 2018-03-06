@@ -1,47 +1,95 @@
 # Diseño y Nuevos Medios
-## Primer semestre, 2018
-### Profesor: Felipe Cortez, alias [FACO](http://profesor.faco.cl)
-
+### Primer semestre, 2018
 #### Miércoles, Módulos 2 y 3 (10.00 a 12.50 hrs.)
 
-En esta primera clase del semestre se presenta el curso que
+#### Profesor Felipe Cortez, alias [FACO](http://profesor.faco.cl)
 
->ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción, según las prácticas estandarizadas en interoperabilidad, accesibilidad y usabilidad.
+Diseño y Nuevos Medios es un Optativo de Profundización de Diseño, que:
 
-Aprobando el curso, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo de aplicación web. Para ello, se proyecta la siguiente organización de sesiones durante el semestre:
+1. conserva su nombre desde el año 2010 (pero no conservar el programa de aquél tiempo).
 
-- Sesión 1 --> **7 de marzo** --> Introducción al curso: Programas, GitHub, y Ejercicio rápido para la publicación en GitHub Pages.
+2. forma parte del Certificado Académico en [Desarrollo de Productos y Servicios Digitales](http://formaciongeneral.uc.cl/certificados-academicos/interdisciplinarios/725-desarrollo-de-productos-y-servicios-digitales).
 
-- Sesión 2 --> **14 de marzo** --> Introducción a HTML
+3. ofrece una introducción práctica al desarrollo de Aplicaciones Web, con énfasis en la codificación del diseño de interfaz gráfica e interacción, según las prácticas estandarizadas en interoperabilidad, accesibilidad y usabilidad.
 
-- Sesión 3 --> **21 de marzo** --> Introducción a HTML con CSS
+4. exige constante ejercitación y publicación de resultados en GitHub y GitHub Pages.
 
-- Sesión 4 --> **28 de marzo**  --> Introducción a CSS
+Habiendo sacado el mejor provecho al optativo, los estudiantes serán capaces de desarrollar, de manera autónoma, un sitio web profesional o un prototipo avanzado de aplicación web. Por esta razón, el examen final se revisará en línea; cada estudiante puede aprovechar el examen final para ganar plata (puede desarrollar el sitio web de una empresa, sitio que tendrá que poner en línea en dominio correspondiente, con un hosting de nivel profesional; pero la calificación final no dependerá de la opinión de la empresa).
 
-- Sesión 5 --> **4 de abril**  --> Bootstrap: HTML + CSS + JS
+Se proyecta la siguiente organización de sesiones durante el semestre:
 
-- Sesión 6 --> **11 de abril**  --> Bootstrap: JavaScript plugins built on jQuery
+- Sesión 1 → **7 de marzo** → GitHub, GitHub Pages, software y un vistazo al código fuente. 
 
-- Sesión 7 --> **18 de abril**  --> Introducción a JavaScript
+- Sesión 2 → **14 de marzo** → HTML5
 
-- Sesión 8 --> **25 de abril**  --> Introducción a JavaScript
+- Sesión 3 → **21 de marzo** → CSS3
 
-- Sesión 9 --> **2 de mayo** --> Ejercicio con evaluación parcial en JS
+- Sesión 4 → **28 de marzo** → Bootstrap (HTML5 + CSS3 + JS)
 
-- Sesión 10 --> **9 de mayo** --> Introducción a PHP
+- Sesión 5 → **4 de abril** → JS
 
-- Sesión 11 --> **16 de mayo** --> Introducción a PHP
+- Sesión 6 → **11 de abril** → JS
 
-- Sesión 12 --> **23 de mayo** --> Introducción a PHP
+- Sesión 7 → **18 de abril** → JS
 
-- Sesión 13 --> **30 de mayo** --> Ejercicio con evaluación parcial en PHP
+- Sesión 8 → **25 de abril** → Ejercicio con evaluación parcial en JS
 
-- Sesión 14 --> **6 de junio** --> Entrega Final: Wireframe.
+- Sesión 9 → **2 de mayo** → PHP
 
-- Sesión 15 --> **13 de junio** --> Entrega Final: Mockup
+- Sesión 10 → **9 de mayo** → PHP
 
-- Sesión 16 --> **20 de junio** --> Entrega Final: Producción
+- Sesión 11 → **16 de mayo** → PHP
 
-- Sesión 17 --> **27 de junio** --> Entrega Final: Pre-entrega
+- Sesión 12 → **23 de mayo** → Ejercicio con evaluación parcial en PHP
 
-- Sesión 18 --> **4 de julio** --> Entrega Final: Entrega en línea
+- Sesión 13 → **30 de mayo** → Proyecto final · ¿Qué hacer? · *Discover*
+
+- Sesión 14 → **6 de junio** → Proyecto Final · ¿Cómo hacerlo? · *Define*
+
+- Sesión 15 → **13 de junio** → Proyecto Final · Implementación · *Develop*
+
+- Sesión 16 → **20 de junio** → Proyecto Final · Pre-entrega · *Deliver 1.0*
+
+- Sesión 17 → **27 de junio** → Proyecto Final · Entrega · *Deliver 2.0*
+
+- - - - - - - - -
+
+## Sesión 1
+### Miércoles 7 de marzo
+
+#### GitHub 
+
+GitHub es una plataforma de desarrollo colaborativo, que permite crear repositorios para subir proyectos cuyas versiones controlamos mediante Git (un sistema cuyo propósito es llevar registro de los cambios en archivos compartidos, para coordinar el trabajo entre varias personas).
+
+Para el desarrollo del curso, es necesario que cada estudiante tenga [su cuenta personal en GitHub](https://github.com/join).
+
+Tan pronto tengan su cuenta, es necesario que creen su primer repositorio. El proceso para hacerlo es muy sencillo: 
+
+En la página de "Repositories" encontrarás un botón verde, que dice "New". Presiona ese botón. Eso te llevó a una nueva página, donde tienes que escribir un "Repository name", evita que ese nombre tenga tildes o acentos, y prefiere usar una única palabra (si necesitas dos o más palabras, usa guión entre ellas). GitHub revisará si puedes usar el nombre ingresado, y te entregará un ticket verde cuando sí se pueda. Por ahora puedes saltarte la "Description". Luego tienes que dejar seleccionada la opción "Public" y tienes marcar un ticket en la opción de "Initialize this repository with a README". Para terminar, dale click al botón verde de "Create repository".
+
+#### GitHub Pages
+
+Si en tu repositorio de GitHub subes un sitio web, con su correspondiente documento `index.html`, bien puedes hacer que este sitio quede publicado en la Web, en una dirección a la que cualquier persona podría acceder. Esto lo puedes hacer si es que aprovechas el servicio de [Github Pages](https://help.github.com/articles/what-is-github-pages/). 
+
+Al finalizar esta clase, aprovecharemos el repositorio que ya han creado, y un ejercicio que haremos en breve. Con ello aprenderán a utilizar GitHub Pages.
+
+#### Software 
+
+Para empezar, necesitaremos dos cosas: 
+
+1. **Navegador Web**: Seguro ya tienes tu favorito. Lo ideal sería que este favorito sea Chrome o Firefox, porque ofrecen mejores herramientas para los desarrolladores. 
+
+2. **Editor de Código**: Esto es como un documento de notas especializado en reconocer y ayudarte a escribir en  distintos lenguajes de programación. A veces pueden ayudar tanto como un predicador de texto, cuando va reconociendo bien las palabras que quieres agregar.
+
+#### Un vistazo al código fuente. 
+
+Ahora vamos a poner manos a la obra con los siguientes objetivos: 
+
+1. los estudiante podrán tener una idea más clara respecto de temas y modos de trabajo en el optativo.
+2. ayudante y profesor podrán contar con evidencia de diagnóstico, para ajustar la partida de las próximas clases. 
+
+Vamos a http://profesorado.github.io/dno037-2018-01
+
+- - - - - 
+
+[Siguiente clase](https://github.com/profesorfaco/dno037-2018-02)
