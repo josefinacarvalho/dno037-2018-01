@@ -71,6 +71,8 @@ Si en tu repositorio de GitHub subes un sitio web, con su correspondiente docume
 
 Al finalizar esta clase, aprovecharemos el repositorio que ya han creado, y un ejercicio que haremos en breve. Con ello aprenderán a utilizar GitHub Pages.
 
+> Daniel Shiffman explica como crear un GitHub Page en este video https://youtu.be/bFVtrlyH-kc
+
 ### Software 
 
 Para empezar, necesitaremos: 
