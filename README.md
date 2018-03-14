@@ -19,9 +19,9 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01/#clase-1--mi%C3%A9rcoles-7-de-marzo). 
 
-- Clase 2 → Miércoles 14 de marzo → HTML5
+- Clase 2 → Miércoles 14 de marzo → [HTML5](https://github.com/profesorfaco/dno037-2018-02)
 
-- Clase 3 → Miércoles 21 de marzo → CSS3
+- Clase 3 → Miércoles 21 de marzo → [CSS3](https://github.com/profesorfaco/dno037-2018-03)
 
 - Clase 4 → Miércoles 28 de marzo → Bootstrap (HTML5 + CSS3 + JS)
 
