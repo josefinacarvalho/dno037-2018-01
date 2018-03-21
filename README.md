@@ -23,9 +23,9 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 3 → Miércoles 21 de marzo → [CSS3](https://github.com/profesorfaco/dno037-2018-03)
 
-- Clase 4 → Miércoles 28 de marzo → Bootstrap (HTML5 + CSS3 + JS)
+- Clase 4 → Miércoles 28 de marzo → [Bootstrap (HTML5 + CSS3 + JS)](https://github.com/profesorfaco/dno037-2018-04)
 
-- Clase 5 → Miércoles 4 de abril → JS
+- Clase 5 → Miércoles 4 de abril → [JS](https://github.com/profesorfaco/dno037-2018-05)
 
 - Clase 6 → Miércoles 11 de abril → JS
 
