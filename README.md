@@ -1,7 +1,8 @@
 # Diseño y Nuevos Medios
 
-### Profesor: Felipe Cortez
-### Ayudante: Denisse Ortega
+### Pontificia Universidad Católica de Chile → Diseño
+
+#### [Felipe Cortez](http://profesor.faco.cl) + Denisse Ortega
 
 **Diseño y Nuevos Medios es un Optativo de Profundización en Diseño**. Este optativo:
 
