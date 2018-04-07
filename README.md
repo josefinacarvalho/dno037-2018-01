@@ -28,9 +28,9 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 5 → Miércoles 4 de abril → [JS](https://github.com/profesorfaco/dno037-2018-05)
 
-- Clase 6 → Miércoles 11 de abril → JS
+- Clase 6 → Miércoles 11 de abril → [Bibliotecas de JS: p5.js](https://github.com/profesorfaco/dno037-2018-06)
 
-- Clase 7 → Miércoles 18 de abril → JS
+- Clase 7 → Miércoles 18 de abril → [Bibliotecas de JS: d3.js](https://github.com/profesorfaco/dno037-2018-07)
 
 - Clase 8 → Miércoles 25 de abril → Ejercicio con evaluación parcial en JS
 
