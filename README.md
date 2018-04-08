@@ -18,7 +18,7 @@ Habiendo sacado el mejor provecho al optativo, **los estudiantes serán capaces 
 
 Se proyecta la siguiente organización de las clases durante el semestre:
 
-- Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01/#clase-1--mi%C3%A9rcoles-7-de-marzo). 
+- Clase 1 → Miércoles 7 de marzo → [GitHub, GitHub Pages, software y un vistazo al código fuente](https://github.com/profesorfaco/dno037-2018-01). 
 
 - Clase 2 → Miércoles 14 de marzo → [HTML5](https://github.com/profesorfaco/dno037-2018-02)
 
@@ -32,9 +32,9 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 7 → Miércoles 18 de abril → [Bibliotecas de JS → d3.js](https://github.com/profesorfaco/dno037-2018-07)
 
-- Clase 8 → Miércoles 25 de abril → Ejercicio con evaluación parcial en JS
+- Clase 8 → Miércoles 25 de abril → [Ejercicio con evaluación parcial en JS](https://github.com/profesorfaco/dno037-2018-08)
 
-- Clase 9 → Miércoles 2 de mayo → PHP
+- Clase 9 → Miércoles 2 de mayo → [PHP](https://github.com/profesorfaco/dno037-2018-09)
 
 - Clase 10 → Miércoles 9 de mayo → PHP
 
