@@ -36,11 +36,11 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 9 → Miércoles 2 de mayo → [PHP](https://github.com/profesorfaco/dno037-2018-09)
 
-- Clase 10 → Miércoles 9 de mayo → PHP
+- Clase 10 → Miércoles 9 de mayo → [PHP](https://github.com/profesorfaco/dno037-2018-10)
 
-- Clase 11 → Miércoles 16 de mayo → PHP
+- Clase 11 → Miércoles 16 de mayo → [PHP](https://github.com/profesorfaco/dno037-2018-11)
 
-- Clase 12 → Miércoles 23 de mayo → Ejercicio con evaluación parcial en PHP
+- Clase 12 → Miércoles 23 de mayo → [Ejercicio con evaluación parcial en PHP](https://github.com/profesorfaco/dno037-2018-12)
 
 - Clase 13 → Miércoles 30 de mayo → Proyecto final · ¿Qué hacer? · *Discover*
 
