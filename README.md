@@ -42,15 +42,15 @@ Se proyecta la siguiente organización de las clases durante el semestre:
 
 - Clase 12 → Miércoles 23 de mayo → [Ejercicio con evaluación parcial en PHP](https://github.com/profesorfaco/dno037-2018-12)
 
-- Clase 13 → Miércoles 30 de mayo → Proyecto final · ¿Qué hacer? · *Discover*
+- Clase 13 → Miércoles 30 de mayo → Proyecto final · [¿Qué hacer? · *Discover*](https://github.com/profesorfaco/dno037-2018-13)
 
-- Clase 14 → Miércoles 6 de junio → Proyecto Final · ¿Cómo hacerlo? · *Define* (clase suspendida por paro)
+- Clase 14 → Miércoles 6 de junio → Proyecto Final · [¿Cómo hacerlo? · *Define* (clase suspendida por paro)](https://github.com/profesorfaco/dno037-2018-14)
 
-- Clase 15 → Miércoles 13 de junio → Proyecto Final · Implementación · *Develop*
+- Clase 15 → Miércoles 13 de junio → Proyecto Final · [Implementación · *Develop*](https://github.com/profesorfaco/dno037-2018-15)
 
-- Clase 16 → Miércoles 20 de junio → Proyecto Final · Pre-entrega · *Deliver 1.0*
+- Clase 16 → Miércoles 20 de junio → Proyecto Final · [Pre-entrega · *Deliver 1.0*](https://github.com/profesorfaco/dno037-2018-16)
 
-- Clase 17 → Miércoles 27 de junio → Proyecto Final · Entrega · *Deliver 2.0*
+- Clase 17 → Miércoles 27 de junio → Proyecto Final · [Entrega · *Deliver 2.0*](https://github.com/profesorfaco/dno037-2018-17)
 
 - - - - - - - - -
 
